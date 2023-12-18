@@ -1,4 +1,4 @@
-name: Create Release and Upload Artifact # Название рабочего процесса
+name: VATRUSHKA # Название рабочего процесса
 on:
   push:
     tags:
